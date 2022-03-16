@@ -1,0 +1,46 @@
+10:21:05 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+10:21:06 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:21:06 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:21:06 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:21:10 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:21:20 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:21:34 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:21:55 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:23:21 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+10:23:22 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:23:22 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:23:22 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:23:25 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:23:30 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000008-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:23:36 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:23:41 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000008-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:23:50 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:23:54 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000008-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:24:01 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000003-0006-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:24:08 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:24:13 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000008-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:24:24 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000008-0001-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:24:31 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000003-0006-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:24:43 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:24:47 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "e6ffdb66-588b-470d-8430-8894da207a4f", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000008-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:25:00 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+10:25:00 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:25:00 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:25:00 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:25:20 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:26:14 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:26:15 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", ActionId: "5a787742-869b-44eb-a4f7-a99d01afcc66", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000005-0007-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:26:27 - Information - Bus started: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:26:27 - Information - ProductController: {"Code":"9999"} { SourceContext: "PocCqrs.Controllers.ProductController", ActionId: "5a787742-869b-44eb-a4f7-a99d01afcc66", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "4000000a-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:26:27 - Information - ProductController: {"Code":"9999"} { SourceContext: "PocCqrs.Controllers.ProductController", ActionId: "5a787742-869b-44eb-a4f7-a99d01afcc66", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "40000005-0007-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+10:26:34 - Information - ProductController: {"Code":"1111"} { SourceContext: "PocCqrs.Controllers.ProductController", ActionId: "5a787742-869b-44eb-a4f7-a99d01afcc66", ActionName: "PocCqrs.Controllers.ProductController.Create (PocCqrs.Api)", RequestId: "4000000b-0005-ff00-b63f-84710c7967bb", RequestPath: "/Product", Environment: "Development" }
+11:30:25 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+11:30:26 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+11:30:26 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+11:30:26 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+11:30:26 - Information - Bus started: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+12:06:54 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+12:06:55 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+12:06:55 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+12:06:55 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+12:06:55 - Information - Bus started: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }

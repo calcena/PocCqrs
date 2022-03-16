@@ -1,0 +1,31 @@
+10:54:52 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+10:54:52 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:54:52 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:54:52 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+10:54:56 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:55:07 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:55:21 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:55:42 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:56:17 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:56:53 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:57:28 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:58:03 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:58:38 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+10:59:13 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:19:58 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+17:19:58 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:19:58 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:19:58 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:20:02 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:20:14 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:20:27 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:43:37 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+17:43:37 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:43:37 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:43:37 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:43:41 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:43:52 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:44:06 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:44:25 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:44:55 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:45:30 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }

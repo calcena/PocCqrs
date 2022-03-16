@@ -1,0 +1,48 @@
+17:00:41 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit" }
+17:00:42 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime" }
+17:00:42 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime" }
+17:00:42 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime" }
+17:00:46 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit" }
+17:00:57 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit" }
+17:01:11 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit" }
+17:01:32 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit" }
+17:08:46 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+17:08:47 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:08:47 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:08:47 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+17:08:51 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:09:02 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:09:16 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:09:35 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:10:10 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:10:46 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:11:21 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:11:56 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:12:31 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:13:06 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:13:41 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:14:16 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:14:52 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:15:27 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:16:02 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:16:37 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:17:12 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:17:47 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:18:22 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:18:58 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:19:33 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:20:08 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:20:43 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:21:18 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:21:53 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:22:28 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:23:04 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:23:39 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:24:14 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:24:49 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:25:24 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:25:59 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:26:34 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:27:09 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:27:44 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+17:28:20 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }

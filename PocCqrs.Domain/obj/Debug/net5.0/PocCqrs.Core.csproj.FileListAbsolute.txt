@@ -1,0 +1,11 @@
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\bin\Debug\net5.0\PocCqrs.Core.deps.json
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\bin\Debug\net5.0\PocCqrs.Core.dll
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\bin\Debug\net5.0\ref\PocCqrs.Core.dll
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\bin\Debug\net5.0\PocCqrs.Core.pdb
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\PocCqrs.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\PocCqrs.Core.AssemblyInfoInputs.cache
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\PocCqrs.Core.AssemblyInfo.cs
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\PocCqrs.Core.csproj.CoreCompileInputs.cache
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\PocCqrs.Core.dll
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\ref\PocCqrs.Core.dll
+C:\Users\dcalcena\source\repos\POC_CQRS\PocCqrs.Core\obj\Debug\net5.0\PocCqrs.Core.pdb

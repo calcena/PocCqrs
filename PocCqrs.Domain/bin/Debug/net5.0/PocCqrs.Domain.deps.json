@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PocCqrs.Domain/1.0.0": {
+        "runtime": {
+          "PocCqrs.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PocCqrs.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

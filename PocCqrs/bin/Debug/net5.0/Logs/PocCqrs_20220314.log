@@ -1,0 +1,6 @@
+15:10:54 - Information - Configured endpoint "productQueue", Consumer: "PocCqrs.Aplication.MessageBroker.Consumer.ProductConsumer" { SourceContext: "MassTransit", Environment: "Development" }
+15:10:55 - Information - Application started. Press Ctrl+C to shut down. { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+15:10:55 - Information - Hosting environment: "Development" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+15:10:55 - Information - Content root path: "C:\Users\dcalcena\source\repos\PocCqrs\PocCqrs" { SourceContext: "Microsoft.Hosting.Lifetime", Environment: "Development" }
+15:10:58 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
+15:11:10 - Warning - Connection Failed: rabbitmq://localhost/ { SourceContext: "MassTransit", Environment: "Development" }
